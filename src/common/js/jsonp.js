@@ -21,3 +21,4 @@ export function param(data){
     }
     return url ? url.substring(1) : ''
 }
+
